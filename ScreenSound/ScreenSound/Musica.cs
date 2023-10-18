@@ -5,7 +5,7 @@
     public int duração;
     public bool disponivel;
 
-    public void ExibirFicaTecnica()
+    public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {nome}");
         Console.WriteLine($"Artista: {artista}");

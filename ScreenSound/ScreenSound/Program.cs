@@ -10,8 +10,8 @@ musica2.artista = "Legião Urbana";
 musica2.duração = 300;
 musica2.disponivel = false;
 
-musica1.ExibirFicaTecnica();
-musica2.ExibirFicaTecnica();
+musica1.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica();
 
 musica1.ExibirNomeEArtista();
 
