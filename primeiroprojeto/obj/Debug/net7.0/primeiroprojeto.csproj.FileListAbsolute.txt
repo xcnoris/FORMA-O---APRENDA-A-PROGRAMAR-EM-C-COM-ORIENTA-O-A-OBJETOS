@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.exe
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.deps.json
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.runtimeconfig.json
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.dll
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.pdb
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.AssemblyInfo.cs
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.dll
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\refint\primeiroprojeto.dll
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.pdb
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.genruntimeconfig.cache
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\primeiroprojeto\obj\Debug\net7.0\ref\primeiroprojeto.dll
