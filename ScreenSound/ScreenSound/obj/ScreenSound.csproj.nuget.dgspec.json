@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\augus\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {}
+    "C:\\Users\\User\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\CURSO ORIENTACAO A OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\augus\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\User\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\CURSO ORIENTACAO A OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\augus\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\CURSO ORIENTACAO A OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\augus\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
-        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\augus\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\ScreenSound\\ScreenSound\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\CURSO ORIENTACAO A OBJETOS\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\\CURSO ORIENTACAO A OBJETOS\\ScreenSound\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
