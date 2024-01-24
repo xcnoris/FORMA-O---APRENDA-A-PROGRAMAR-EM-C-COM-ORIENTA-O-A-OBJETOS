@@ -1,17 +1,22 @@
-﻿Musica musica1 = new Musica();
-musica1.Nome = "Uma Arlinda Mulher";
-musica1.Artista = "Mamonas Assasinas";
-musica1.Duracao = 180;
-musica1.Disponivel = true;
-Console.WriteLine(musica1.DescricaoResumida);
+﻿Banda queen = new Banda();
+queen.Nome = "Queen";
 
-Musica musica2 = new Musica();
-musica2.Nome = "Tempo Perdido";
-musica2.Artista = "Legião Urbana";
-musica2.Duracao = 300;
-musica2.Disponivel = false;
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+Album albumDoQueen = new Album();
+albumDoQueen.Nome = "A night at the opera";
 
+Musica musica1 = new Musica(queen);
+musica1.Nome = "Love of my life";
+musica1.Duracao = 213;
+
+Musica musica2 = new Musica(queen);
+musica2.Nome = "Bohemian Rhatsody";
+musica2.Duracao = 312;
+
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
+
+albumDoQueen.ExibirMusicasDoAlbum();
+queen.AdicionarAlbum(albumDoQueen);
+queen.ExibirDiscografia();
 

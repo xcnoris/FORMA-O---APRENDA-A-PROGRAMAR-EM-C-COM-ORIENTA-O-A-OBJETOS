@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\bin\Release\net6.0\ScreenSound.exe
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\bin\Release\net6.0\ScreenSound.deps.json
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\bin\Release\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\bin\Release\net6.0\ScreenSound.dll
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\bin\Release\net6.0\ScreenSound.pdb
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ScreenSound.dll
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\refint\ScreenSound.dll
+C:\Users\User\Source\Repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ScreenSound.pdb
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\User\source\repos\xcnoris\FORMA-O---APRENDA-A-PROGRAMAR-EM-C-COM-ORIENTA-O-A-OBJETOS\ScreenSound\ScreenSound\obj\Release\net6.0\ref\ScreenSound.dll
